@@ -41,7 +41,7 @@ Copy the token
 paste it here 
 **use_auth_token="insert_your_token_here",**
 
-### . Clone the Repository
+### . How to Clone the Repository
 
 ```bash
 git clone https://github.com/nadasaidi23/stable-diffusion-streamlit.git
