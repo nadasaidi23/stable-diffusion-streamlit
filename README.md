@@ -33,10 +33,7 @@ Produces an image matching the prompt using the Stable Diffusion model.
 git clone https://github.com/nadasaidi23/stable-diffusion-streamlit.git
 cd stable-diffusion-streamlit
 
-### 2. Install the Requirements
-
-```bash
-pip install -r requirements.txt
+t
 
 
 
