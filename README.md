@@ -33,17 +33,13 @@ Produces an image matching the prompt using the Stable Diffusion model.
 git clone https://github.com/nadasaidi23/stable-diffusion-streamlit.git
 cd stable-diffusion-streamlit
 
-**Add Your Hugging Face Token**
-✅ How to get a token:
+-----
+2. Install the Requirements
+bash
+Copier
+Modifier
 
-Go to https://huggingface.co/settings/tokens
 
-Click “New token”
-
-Name it (e.g., streamlit-app) and choose “Read” access
-
-Copy the token here:
-use_auth_token="insert_your_token_here",
 
 
 
