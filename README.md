@@ -51,7 +51,7 @@ paste it here
 ```bash
 git clone https://github.com/nadasaidi23/stable-diffusion-streamlit.git
 cd stable-diffusion-streamlit
----
+
 
 
 
