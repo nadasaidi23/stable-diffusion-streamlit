@@ -29,7 +29,7 @@ Produces an image matching the prompt using the Stable Diffusion model.
 
 ---
 
-## 🚀 Get your token 
+## 🔒 Get your token 
 Go to: https://huggingface.co/settings/tokens
 
 Click New token
@@ -41,7 +41,7 @@ Copy the token
 paste it here 
 **use_auth_token="insert_your_token_here",**
 
-### . How to Clone the Repository
+### 🚀 How to Clone the Repository
 
 ```bash
 git clone https://github.com/nadasaidi23/stable-diffusion-streamlit.git
