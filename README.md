@@ -8,6 +8,11 @@ This project is a **stylish and minimal web application** built with **Streamlit
 
 ---
 
+🧠 Model Used
+CompVis/stable-diffusion-v1-4 from Hugging Face 🤗
+
+
+
 ## 📸 Example Prompt
 
 > `"A fantasy castle in the clouds"`
