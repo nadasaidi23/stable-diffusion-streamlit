@@ -2,7 +2,7 @@
 
 This project is a **stylish and minimal web application** built with **Streamlit** that uses the **Stable Diffusion v1-4 model** from Hugging Face to generate AI-powered images from text prompts — entirely on **CPU**, with **no GPU required**.
 
-![Generated Example](Image_generated_screenshot.png)
+![UI Example](Image_generated_screenshot.png)
 
 > ✨ Clean UI · 💻 CPU-Only · 🧠 Diffusion-powered · 🚀 Streamlit-friendly
 
