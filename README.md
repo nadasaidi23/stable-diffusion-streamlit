@@ -13,7 +13,7 @@ This project is a **stylish and minimal web application** built with **Streamlit
 > `"A fantasy castle in the clouds"`
 
 Produces an image matching the prompt using the Stable Diffusion model.
-![Imagegenerated Example](Image_generated.png)
+![Third Screenshot](screSh.png)
 
 
 ---
